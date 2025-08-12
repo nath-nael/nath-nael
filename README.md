@@ -4,11 +4,15 @@ I'm a Master of Information Technology candidate with a strong interest in **dat
 I enjoy building scalable, user-friendly applications using technologies like **Python**,**React** and **Go**.
 
 ---
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nath-nael&layout=compact&theme=default)
+
+---
 ## 📬 Connect with me
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nath-nael)
+- 👨‍💻 Projects:  [GitHub](https://github.com/nath-nael)
 - 📫 Email: **nathanael3matt@gmail.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mattnathanael/)
+- 📄 Experiences: [LinkedIn](https://www.linkedin.com/in/mattnathanael/)
 
 <p align="left">
 <a href="https://linkedin.com/in/mattnathanael" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattnathanael" height="30" width="40" /></a>
@@ -62,9 +66,4 @@ I enjoy building scalable, user-friendly applications using technologies like **
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
-
----
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nath-nael&layout=compact&theme=default)
 
