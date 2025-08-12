@@ -1,6 +1,6 @@
 # Hi 👋, I'm Matt
 
-I'm a Master of Information Technology candidate with a strong interest in **data science**, **machine learning**, and modern **web app development**.  
+I'm a passionate about **data science**, **machine learning**, and modern **web app development**.  
 I enjoy building scalable, user-friendly applications using technologies like **Python**,**React** and **Go**.
 
 ---
